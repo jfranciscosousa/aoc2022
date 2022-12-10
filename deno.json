@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "run": "deno run --allow-read=.",
+    "watch": "deno task run --watch"
+  }
+}

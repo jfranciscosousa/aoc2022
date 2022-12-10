@@ -1,0 +1,24 @@
+{
+  "version": "2",
+  "remote": {},
+  "npm": {
+    "specifiers": {
+      "@types/lodash-es": "@types/lodash-es@4.17.6",
+      "lodash-es": "lodash-es@4.17.21"
+    },
+    "packages": {
+      "@types/lodash-es@4.17.6": {
+        "integrity": "sha512-R+zTeVUKDdfoRxpAryaQNRKk3105Rrgx2CFRClIgRGaqDTdjsm8h6IYA8ir584W3ePzkZfst5xIgDwYrlh9HLg==",
+        "dependencies": { "@types/lodash": "@types/lodash@4.14.191" }
+      },
+      "@types/lodash@4.14.191": {
+        "integrity": "sha512-BdZ5BCCvho3EIXw6wUCXHe7rS53AIDPLE+JzwgT+OsJk53oBfbSmZZ7CX4VaRoN78N+TJpFi9QPlfIVNmJYWxQ==",
+        "dependencies": {}
+      },
+      "lodash-es@4.17.21": {
+        "integrity": "sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==",
+        "dependencies": {}
+      }
+    }
+  }
+}
