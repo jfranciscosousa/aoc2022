@@ -1,6 +1,9 @@
 {
   "version": "2",
-  "remote": {},
+  "remote": {
+    "https://cdn.skypack.dev/-/lodash-es@v4.17.21-rDGl8YjBUjcrrAbjNrmo/dist=es2019,mode=imports/optimized/lodash-es.js": "4a1b35d34b5e0d3ae68aa46ddaabb9700ccecb75b830974db7c46a271f10daa8",
+    "https://cdn.skypack.dev/lodash-es": "7dc1d11c01e46bf442774791267f7ca93f6cc204451ac648f2560b0cd6c91524"
+  },
   "npm": {
     "specifiers": {
       "@types/lodash-es": "@types/lodash-es@4.17.6",
